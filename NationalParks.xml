@@ -1,0 +1,117 @@
+<NationalParks
+            xmlns="http://brandonhbse.github.io/cse445_a4"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="https://brandonhbse.github.io/cse445_a4/ NationalParks.xsd">
+    <NationalPark Rating="4.9">
+        <Name>Grand Teton</Name>
+        <Phone>307-739-3300</Phone>
+        <Address NearestAirport="Jackson Hole">
+            <Number>103</Number>
+            <Street>Headquarters Loop</Street>
+            <City>Moose</City>
+            <State>WY</State>
+            <Zip>83012</Zip>
+        </Address>
+    </NationalPark>
+    <NationalPark Rating="4.8">
+        <Name>Capitol Reef</Name>
+        <Phone>435-272-4199</Phone>
+        <Address NearestAirport="Salt Lake City International">
+            <Number>32</Number>
+            <Street>S. Scenic Drive</Street>
+            <City>Torrey</City>
+            <State>UT</State>
+            <Zip>84775</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark Rating="4.7">
+        <Name>Petrified Forest</Name>
+        <Phone>928-524-6228</Phone>
+        <Address NearestAirport="Flagstaff">
+            <Number>1</Number>
+            <Street>Park Road</Street>
+            <City>Concho</City>
+            <State>AZ</State>
+            <Zip>86028</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark Rating="4.8">
+        <Name>Lassen Volcanic</Name>
+        <Phone>530-595-4480</Phone>
+        <Address NearestAirport="Redding International">
+            <Number>21805</Number>
+            <Street>Raker Road</Street>
+            <City>Mineral</City>
+            <State>CA</State>
+            <Zip>96063</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark Rating="4.7">
+        <Name>Death Valley</Name>
+        <Phone>760-786-3200</Phone>
+        <Phone>800-877-8839</Phone>
+        <Address NearestAirport="Harry Reid International">
+            <Number>190</Number>
+            <Street>California Highway</Street>
+            <City>Death Valley</City>
+            <State>CA</State>
+            <Zip>92328</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark Rating="4.6">
+        <Name>Everglades</Name>
+        <Phone>305-242-7700</Phone>
+        <Address NearestAirport="Miami">
+            <Number>40001</Number>
+            <Street>State Road 9336</Street>
+            <City>Homestead</City>
+            <State>FL</State>
+            <Zip>33034</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark>
+        <Name>Yellowstone</Name>
+        <Phone>307-344-7381</Phone>
+        <Address NearestAirport="Jackson Hole">
+            <Number>0</Number>
+            <Street>Mammoth Hot Springs</Street>
+            <City>Yellowstone</City>
+            <State>WY</State>
+            <Zip>82190</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark>
+        <Name>Badlands</Name>
+        <Phone>801-256-9100</Phone>
+        <Address NearestAirport="Rapid City Regional">
+            <Number>25216</Number>
+            <Street>Ben Reifel Road</Street>
+            <City>Interior</City>
+            <State>SD</State>
+            <Zip>57750</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark>
+        <Name>Shenandoah</Name>
+        <Phone>540-234-8304</Phone>
+        <Address NearestAirport="Shenandoah Valley Regional">
+            <Number>3655</Number>
+            <Street>Highway 211 East</Street>
+            <City>Luray</City>
+            <State>VA</State>
+            <Zip>22835</Zip>
+        </Address>
+    </NationalPark>
+        <NationalPark Rating="4.8">
+        <Name>Arches</Name>
+        <Phone>435-719-2299</Phone>
+        <Phone>877-444-6777</Phone>
+        <Address NearestAirport="Canyonlands">
+            <Number>0</Number>
+            <Street>Arches Quarters</Street>
+            <City>Moab</City>
+            <State>UT</State>
+            <Zip>84532</Zip>
+        </Address>
+    </NationalPark>
+</NationalParks>
